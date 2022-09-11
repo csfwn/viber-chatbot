@@ -32,11 +32,3 @@ Create a file **config.php** in **php** directory and add below text
 ```
 <?php $access_token = 'Your Viber Access Token Add Here'; ?>
 ```
-
-#### For Node.JS,
-
-Create a file **.env** in **nodejs** directory and add this below text
-```
-PORT=5000
-ACCESS_TOKEN=Your Viber Access Token Add HERE
-```
